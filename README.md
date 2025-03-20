@@ -1,0 +1,2 @@
+# EA-Ramalee
+Trading bot
